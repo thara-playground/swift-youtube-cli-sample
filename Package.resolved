@@ -1,0 +1,70 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BigInt",
+        "repositoryURL": "https://github.com/attaswift/BigInt",
+        "state": {
+          "branch": null,
+          "revision": "2bbb8a7addeb79ceccf45acac9f6e2a07cbe9680",
+          "version": "5.1.0"
+        }
+      },
+      {
+        "package": "Commander",
+        "repositoryURL": "https://github.com/kylef/Commander.git",
+        "state": {
+          "branch": null,
+          "revision": "e5b50ad7b2e91eeb828393e89b03577b16be7db9",
+          "version": "0.8.0"
+        }
+      },
+      {
+        "package": "CryptoSwift",
+        "repositoryURL": "https://github.com/krzyzanowskim/CryptoSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "39f08ac5269361a50c08ce1e2f41989bfc4b1ec8",
+          "version": "1.3.1"
+        }
+      },
+      {
+        "package": "google-api-swift-client",
+        "repositoryURL": "https://github.com/googleapis/google-api-swift-client.git",
+        "state": {
+          "branch": "master",
+          "revision": "b03e26bc973ad39d4a8932e1a62b8790ae49d0e1",
+          "version": null
+        }
+      },
+      {
+        "package": "Auth",
+        "repositoryURL": "https://github.com/googleapis/google-auth-library-swift.git",
+        "state": {
+          "branch": null,
+          "revision": "7b1c9cd4ffd8cb784bcd8b7fd599794b69a810cf",
+          "version": "0.5.2"
+        }
+      },
+      {
+        "package": "Spectre",
+        "repositoryURL": "https://github.com/kylef/Spectre.git",
+        "state": {
+          "branch": null,
+          "revision": "f717bbce0e19f0129fc001b2b6bed43b70fd8b87",
+          "version": "0.9.1"
+        }
+      },
+      {
+        "package": "swift-nio",
+        "repositoryURL": "https://github.com/apple/swift-nio.git",
+        "state": {
+          "branch": null,
+          "revision": "cf6f2b1807219643270616e03de697b96c46384c",
+          "version": "2.21.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
